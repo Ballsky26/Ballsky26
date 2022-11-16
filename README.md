@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Ballsky26
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Syaiful Iqbal and Im just Newbie :D
+- 🌱 I’m currently learning .html, .css, .js, and .php
+- 💞️ I’m looking to collaborate on .codeIgniter and .Laravel
+- 😄 Pronouns: He/Him
+- ⚡ Excited to create open-source projects
 
 <!---
 Ballsky26/Ballsky26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
