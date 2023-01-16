@@ -33,7 +33,7 @@
 ## 📱 My Social Account
 
 <a href="https://twitter.com/ballsky26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ballsky26" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/syaiful iqbal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syaiful iqbal" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/syaiful-iqbal-162698247/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syaiful iqbal" height="30" width="40" /></a>
 <a href="https://www.facebook.com/syaifuliqbal26/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="syaiful iqbal" height="30" width="40" /></a>
 <a href="https://instagram.com/@syaiful_iqbal26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@syaiful_iqbal26" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/ballsky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ballsky" height="30" width="40" /></a>
