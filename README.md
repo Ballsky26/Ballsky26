@@ -2,7 +2,7 @@
 <h1 align="center">Hello, I'm Ballsky</h1>
 <h3 align="center">Enthusiasm to Learn Programming 😃</h3>
 
-<p align="left"> <a href="https://twitter.com/ballsky26" target="blank"><img src="https://img.shields.io/twitter/follow/ballsky26?logo=twitter&style=for-the-badge" alt="ballsky26" /></a> </p>
+<p align="left"> <a href="https://twitter.com/baiisky26" target="blank"><img src="https://img.shields.io/twitter/follow/ballsky26?logo=twitter&style=for-the-badge" alt="ballsky26" /></a> </p>
 
 ## 🙋‍♂️ About Me
 
