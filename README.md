@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Laravel, CodeIgniter, JavaScript**
 
 - 👯 I’m looking to collaborate on **OpenSource Project**
 
