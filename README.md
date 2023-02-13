@@ -22,10 +22,11 @@
 
 <p align="center">
 <a href="https://github.com/ballsky26">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ballsky26&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="ballsky26"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ballsky26&show_icons=true&locale=en&count_private=true&theme=radical" alt="ballsky26"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ballsky26&show_icons=true&theme=cobalt" alt="ballsky26"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ballsky26&layout=compact&theme=cobalt" alt="ballsky26"/>
 </a>
 </p>
+
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ballsky26"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ballsky" /></a></p><br><br>
