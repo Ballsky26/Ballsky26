@@ -9,7 +9,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Laravel, CodeIgniter, JavaScript**
+- 🌱 I’m currently learning **Laravel, CodeIgniter, JavaScript, PHP**
 
 - 👯 I’m looking to collaborate on **OpenSource Project**
 
@@ -44,4 +44,5 @@
 <a href="https://instagram.com/@syaiful_iqbal26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@syaiful_iqbal26" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/ballsky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ballsky" height="30" width="40" /></a>
 <a href="https://discord.gg/Ballsky#4691" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Ballsky#4691" height="30" width="40" /></a>
+<a href="https://www.postman.com/syaifuliqbal" target="_blank"><img align="center" src="https://avatars.githubusercontent.com/u/10251060?s=200&v=4" alt="coldalpha_postman" height="40" width="40" />
 </p>
