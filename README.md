@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=2FDA77&center=true&vCenter=true&width=435&lines=Hello...+I'm+Ballsky;Welcome+to+my+Profile+:D)](#)
 
-<p align="left"> <a href="https://twitter.com/baiisky26" target="blank"><img src="https://img.shields.io/twitter/follow/ballsky26?logo=twitter&style=for-the-badge" alt="ballsky26" /></a> </p>
+<p align="left"> <a href="https://twitter.com/baiisky26" target="blank"><img src="https://img.shields.io/twitter/follow/ballskyy26?logo=twitter&style=for-the-badge" alt="ballskyy26" /></a> </p>
 
 
 ## 🙋‍♂️ About Me
